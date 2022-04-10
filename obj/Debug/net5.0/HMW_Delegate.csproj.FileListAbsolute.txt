@@ -1,0 +1,15 @@
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/HMW_Delegate.deps.json
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/HMW_Delegate.runtimeconfig.json
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/HMW_Delegate.runtimeconfig.dev.json
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/HMW_Delegate.dll
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/ref/HMW_Delegate.dll
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/bin/Debug/net5.0/HMW_Delegate.pdb
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.csproj.AssemblyReference.cache
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.AssemblyInfoInputs.cache
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.AssemblyInfo.cs
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.csproj.CoreCompileInputs.cache
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.dll
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/ref/HMW_Delegate.dll
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.pdb
+/Users/gio/Projects/HMW_Delegate/HMW_Delegate/obj/Debug/net5.0/HMW_Delegate.genruntimeconfig.cache
